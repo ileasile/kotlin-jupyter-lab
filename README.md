@@ -1,6 +1,6 @@
 # kotlin_jupyter_lab
 
-[![Github Actions Status](git@github.com:ileasile/kotlin-jupyter-lab.git/workflows/Build/badge.svg)](git@github.com:ileasile/kotlin-jupyter-lab.git/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/ileasile/kotlin-jupyter-lab/workflows/Build/badge.svg)](https://github.com/ileasile/kotlin-jupyter-lab/actions/workflows/build.yml)
 
 JupyterLab extension that provides smart highlighting for Kotlin notebooks
 
